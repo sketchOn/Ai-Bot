@@ -9,16 +9,16 @@
         "Bot"
     ],
     "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "repository": "https://github.com/sketchOn/Ai-Bot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+            "description": "1628683957:AAEzCo_s_A6MJYLeM3pN0nZ_SCKjiseRUjU"
         },"BOT_NAME": {
-            "description": "your Telegram Bot Name"
+            "description": "My Ai Recogoniser"
         },
         "BOT_USERNAME": {
-            "description": "Your telegram bot username"
+            "description": "MyAiRecogoniserbot"
         }
     },
     "formation": {
